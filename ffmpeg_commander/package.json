@@ -1,0 +1,14 @@
+{
+  "name": "ffmpeg_commander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ffmpeg_commander.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "music-metadata-browser": "^2.5.9"
+  }
+}
